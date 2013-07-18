@@ -6,4 +6,7 @@ cursor_positions:
   - :path: .gitignore
     :cursor_offset: 0
     :timestamp: 2013-07-18 14:50:45 +02:00
+  - :path: README.md
+    :cursor_offset: 19
+    :timestamp: 2013-07-18 17:56:35 +02:00
 files_to_retain: 0
